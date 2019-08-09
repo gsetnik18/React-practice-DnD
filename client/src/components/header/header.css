@@ -1,0 +1,24 @@
+.header-div {
+    width: 100%;
+    top: 0;
+    background-color: purple;
+    position: fixed;
+}
+
+.header-title {
+    color: #fff
+}
+
+a {
+    float: left;
+    position: relative;
+    color: #fff;
+    padding: 5px;
+    margin: 3px;
+}
+
+img {
+    margin: 3px;
+    float: right;
+    height: 115px;
+}
